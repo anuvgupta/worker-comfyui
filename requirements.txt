@@ -1,0 +1,7 @@
+# requirements
+
+runpod
+requests
+urllib3
+websockets
+boto3

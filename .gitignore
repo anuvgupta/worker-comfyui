@@ -1,0 +1,8 @@
+# git ignore
+
+# system
+.DS_Store
+
+# python
+venv
+__pycache__
